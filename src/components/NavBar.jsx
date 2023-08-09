@@ -75,7 +75,7 @@ const NavBar = () => {
 
       <div className="user-btn">
         <button>login</button>
-        <button>Register</button>
+        <button className="sign-up">Register</button>
       </div>
     </nav>
   );
